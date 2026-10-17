@@ -1,0 +1,4 @@
+media/s?_view.*
+media/s?_with.*
+media/s?_without.*
+!media/s?_*_edit.*
